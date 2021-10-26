@@ -1,8 +1,8 @@
 # checkinout
 
-![](home.png)
-![](games.png)
-![](stream.png)
+![](home.PNG)
+![](games.PNG)
+![](stream.PNG)
 
 Monitor your favourite streamers
 
